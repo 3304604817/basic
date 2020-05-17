@@ -1,7 +1,7 @@
-package com.supers.basic.domain.repository.impl;
+package com.supers.basic.repository.impl;
 
 import com.supers.basic.domain.entity.IamUser;
-import com.supers.basic.domain.repository.UserRepository;
+import com.supers.basic.repository.UserRepository;
 import com.supers.basic.mapper.UserMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;

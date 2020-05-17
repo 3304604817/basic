@@ -1,4 +1,4 @@
-package com.supers.basic.domain.repository;
+package com.supers.basic.repository;
 
 import com.supers.basic.domain.entity.IamUser;
 
