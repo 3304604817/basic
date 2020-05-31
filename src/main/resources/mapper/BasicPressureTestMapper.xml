@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+<mapper namespace="com.supers.basic.mapper.BasicPressureTestMapper">
+    <resultMap id="BaseResultMap" type="com.supers.basic.domain.entity.BasicPressureTest">
+        <result column="id" property="id" jdbcType="DECIMAL"/>
+        <result column="attribute1" property="attribute1" jdbcType="VARCHAR"/>
+        <result column="attribute2" property="attribute2" jdbcType="VARCHAR"/>
+        <result column="attribute3" property="attribute3" jdbcType="VARCHAR"/>
+        <result column="attribute4" property="attribute4" jdbcType="VARCHAR"/>
+        <result column="attribute5" property="attribute5" jdbcType="VARCHAR"/>
+        <result column="attribute6" property="attribute6" jdbcType="VARCHAR"/>
+        <result column="attribute7" property="attribute7" jdbcType="VARCHAR"/>
+        <result column="attribute8" property="attribute8" jdbcType="VARCHAR"/>
+        <result column="attribute9" property="attribute9" jdbcType="VARCHAR"/>
+        <result column="attribute10" property="attribute10" jdbcType="VARCHAR"/>
+        <result column="attribute11" property="attribute11" jdbcType="VARCHAR"/>
+        <result column="attribute12" property="attribute12" jdbcType="VARCHAR"/>
+        <result column="attribute13" property="attribute13" jdbcType="VARCHAR"/>
+        <result column="attribute14" property="attribute14" jdbcType="VARCHAR"/>
+        <result column="attribute15" property="attribute15" jdbcType="VARCHAR"/>
+    </resultMap>
+</mapper>
